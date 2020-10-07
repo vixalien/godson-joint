@@ -6,6 +6,5 @@ Work in Progress New Website for [Godson Joint](https://godsonjoint.com)
 
 See License for limitations. 
 
-`<> with ❤ by [👽vixalien]`
+`<> with ❤ by [👽vixalien](https://github.com/vixalien)`
 
-[👽vixalien]:https://github.com/vixalien
