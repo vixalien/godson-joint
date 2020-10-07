@@ -1,0 +1,1134 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Home",
+				"HomeBanner"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"link",
+				"Link\talias"
+			],
+			[
+				"de",
+				"detail"
+			],
+			[
+				"det",
+				"detail-span"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"poin",
+				"pointer-events"
+			],
+			[
+				"per",
+				"persistent\tvar"
+			],
+			[
+				"Al",
+				"AlertEl\tlet"
+			],
+			[
+				"han",
+				"handleClick\tlet"
+			],
+			[
+				"Ale",
+				"AlertElem\tparameter"
+			],
+			[
+				"aler",
+				"alertElem\tparameter"
+			],
+			[
+				"A",
+				"useAlert\talias"
+			],
+			[
+				"handle",
+				"handleShadowClick\tlet"
+			],
+			[
+				"React",
+				"ReactDOM\talias"
+			],
+			[
+				"appe",
+				"appendChild\tmethod"
+			],
+			[
+				"app",
+				"appendChild\tmethod"
+			],
+			[
+				"AlertS",
+				"AlertShadow\talias"
+			],
+			[
+				"Aler",
+				"AlertShadow\tlet"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"backg",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"control"
+			],
+			[
+				"too",
+				"Toolbar\talias"
+			],
+			[
+				"re",
+				"return\tkeyword"
+			],
+			[
+				"na",
+				"nativeEvent\twarning"
+			],
+			[
+				"clas",
+				"className\tvar"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"cal",
+				"className\twarning"
+			],
+			[
+				"act",
+				"activeTab\tlet"
+			],
+			[
+				"active",
+				"activeTab"
+			],
+			[
+				"ac",
+				"activeTab\tlet"
+			],
+			[
+				"parse",
+				"parseInt\tfunction"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Tab",
+				"Tab\tlet"
+			],
+			[
+				"tab",
+				"tabList\tvar"
+			],
+			[
+				"te",
+				"text\tJSX attribute"
+			],
+			[
+				"bac",
+				"back-icon"
+			],
+			[
+				"lef",
+				"leftChevron\talias"
+			],
+			[
+				"le",
+				"leftChevron\tscript"
+			],
+			[
+				"clea",
+				"clearInput\tlet"
+			],
+			[
+				"right",
+				"right-link"
+			],
+			[
+				"rig",
+				"right-link"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ri",
+				"right-link"
+			],
+			[
+				"checkV",
+				"checkVisibility\twarning"
+			],
+			[
+				"t",
+				"title"
+			],
+			[
+				"titl",
+				"titles"
+			],
+			[
+				"l",
+				"lorem\tLorem ipsum"
+			],
+			[
+				"Ca",
+				"Card\talias"
+			],
+			[
+				"fon",
+				"font-sans"
+			],
+			[
+				"has",
+				"hasInvalid\tlet"
+			],
+			[
+				"conf",
+				"confirmPassword\twarning"
+			],
+			[
+				"val",
+				"validateInput\tlet"
+			],
+			[
+				"v",
+				"value\twarning"
+			],
+			[
+				"confi",
+				"confirmPassword"
+			],
+			[
+				"new",
+				"newErrors\tlet"
+			],
+			[
+				"erro",
+				"error\tlet"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"set",
+				"setErrors\tconst"
+			],
+			[
+				"clean",
+				"cleanData\tlet"
+			],
+			[
+				"valid",
+				"validateInput"
+			],
+			[
+				"retu",
+				"returnValue\tlet"
+			],
+			[
+				"form",
+				"formFields\tlet"
+			],
+			[
+				"pi",
+				"picked\tlet"
+			],
+			[
+				"err",
+				"errors\tconst"
+			],
+			[
+				"origi",
+				"originErrors\tlet"
+			],
+			[
+				"ges",
+				"--geist-secondary"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"Con",
+				"Confirm"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"style>\tclass"
+			],
+			[
+				"get",
+				"getHash"
+			],
+			[
+				"res",
+				"result\twarning"
+			],
+			[
+				"user",
+				"usersdb\tlet"
+			],
+			[
+				"use",
+				"user_constraints\tlet"
+			],
+			[
+				"ge",
+				"getHash"
+			],
+			[
+				"sta",
+				"status\tparameter"
+			],
+			[
+				"pos",
+				"postsDirectory\tconst"
+			],
+			[
+				"ho",
+				"home\tdirectory"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"cla",
+				"className\tvar"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"fo",
+				"forEach\tmethod"
+			],
+			[
+				"is",
+				"isArray\tmethod"
+			],
+			[
+				"ins",
+				"instanceof\tkeyword"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"But",
+				"ButtonGroup\talias"
+			],
+			[
+				"Foote",
+				"FooterGroup\tfunction"
+			],
+			[
+				"chil",
+				"children\tvar"
+			],
+			[
+				"Foot",
+				"FooterLinks"
+			],
+			[
+				"Foo",
+				"FooterLink"
+			],
+			[
+				"fun",
+				"fun\tFunction"
+			],
+			[
+				"FO",
+				"FooterLinks\tclass"
+			],
+			[
+				"Fo",
+				"FooterLink"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"Loca",
+				"LocalCard\tfunction"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"sca",
+				"scale()\ttransform"
+			],
+			[
+				"Loc",
+				"LocalCard\tfunction"
+			],
+			[
+				"lin",
+				"Link\talias"
+			],
+			[
+				"child",
+				"children\twarning"
+			],
+			[
+				"Bu",
+				"ButtonGroup\talias"
+			],
+			[
+				"Button",
+				"ButtonGroup\tfunction"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"spac",
+				"space-between\tjustify-content"
+			],
+			[
+				"mo",
+				"modify"
+			],
+			[
+				"mod",
+				"mod_params"
+			],
+			[
+				"a",
+				"Advanced"
+			],
+			[
+				"util",
+				"utilStyles\talias"
+			],
+			[
+				"ti",
+				"title>\tclass"
+			],
+			[
+				"h",
+				"h1>\tclass"
+			],
+			[
+				"empl",
+				"employee"
+			],
+			[
+				"up",
+				"update_params"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"em",
+				"employee_params"
+			],
+			[
+				"employee",
+				"employee_params"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"sort",
+				"sortTarget\twarning"
+			],
+			[
+				"vi",
+				"viewTarget\twarning"
+			],
+			[
+				"emplo",
+				"employees\tparameter"
+			],
+			[
+				"mat",
+				"matchedElem\tlocal var"
+			],
+			[
+				"sor",
+				"sort_done\tmethod"
+			],
+			[
+				"fil",
+				"filter\tlocal var"
+			],
+			[
+				"filte",
+				"filterelems"
+			],
+			[
+				"po",
+				"popup"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/button.js",
+			"settings":
+			{
+				"buffer_size": 434,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/index.js",
+			"settings":
+			{
+				"buffer_size": 452,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/home_banner.js",
+			"settings":
+			{
+				"buffer_size": 164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/appbar.js",
+			"settings":
+			{
+				"buffer_size": 843,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Rust.sublime-build",
+					"Build & Run"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"",
+				"TypeScript: Show Error List"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"typesc",
+				"TypeScript: Show Error List"
+			],
+			[
+				"typpesc",
+				"TypeScript: Request Code Fixes"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdownl",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+			"1+2",
+			"about",
+			"help",
+			"python",
+			"yaml",
+			"import yaml",
+			"clear",
+			"cls",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/sites/godson-joint/godson-joint",
+		"/D/sites/godson-joint/godson-joint/components",
+		"/D/sites/godson-joint/godson-joint/pages",
+		"/D/sites/godson-joint/godson-joint/styles"
+	],
+	"file_history":
+	[
+		"/D/sites/godson-joint/godson-joint/styles/globals.css",
+		"/D/sites/rwarrims/rwarrims4/components/slider.js",
+		"/D/sites/rwarrims/rwarrims4/components/rightChevron.js",
+		"/D/sites/rwarrims/rwarrims4/components/input.js",
+		"/D/sites/rwarrims/rwarrims4/components/icon.js",
+		"/D/sites/rwarrims/rwarrims4/components/table.js",
+		"/D/sites/rwarrims/rwarrims4/styles/globals.css",
+		"/C/Users/Alien/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/D/sites/rwarrims/rwarrims4/components/leftChevron.js",
+		"/C/Sites/muzui/img/demo/right.svg",
+		"/D/sites/rwarrims/rwarrims4/components/alert.js",
+		"/D/sites/rwarrims/rwarrims4/components/context.js",
+		"/D/sites/rwarrims/rwarrims4/pages/_app.js",
+		"/D/sites/rwarrims/rwarrims4/components/navbar.js",
+		"/D/sites/rwarrims/rwarrims4/components/stepper.js",
+		"/D/sites/rwarrims/rwarrims4/components/tabbar.js",
+		"/D/sites/rwarrims/rwarrims4/.next/static/chunks/pages/index.js",
+		"/D/sites/rwarrims/rwarrims4/components/searchbar.js",
+		"/D/sites/rwarrims/rwarrims4/package.json",
+		"/D/sites/rwarrims/rwarrims4/styles/lightTheme.css",
+		"/D/sites/rwarrims/rwarrims4/components/switch.js",
+		"/D/sites/rwarrims/rwarrims4/components/segmentedControl.js",
+		"/D/sites/rwarrims/rwarrims4/components/toolbar.js",
+		"/D/sites/rwarrims/rwarrims4/public/img/icons/icon.svg",
+		"/D/sites/rwarrims/rwarrims4/lib/helpers.js",
+		"/D/sites/rwarrims/rwarrims4/public/img/chevron_right.svg",
+		"/D/sites/rwarrims/rwarrims4/styles/darkTheme.css",
+		"/D/sites/rwarrims/rwarrims4/jsconfig.json",
+		"/D/sites/rwarrims/rwarrims4/components/grid.js",
+		"/D/sites/rwarrims/rwarrims4/styles/Home.module.css",
+		"/D/sites/rwarrims/rwarrims3/utils/validate.js",
+		"/D/sites/rwarrims/rwarrims3/utils/validations.js",
+		"/D/sites/rwarrims/rwarrims3/components/container.js",
+		"/D/sites/rwarrims/rwarrims3/components/input.js",
+		"/D/sites/rwarrims/rwarrims3/components/error.js",
+		"/D/sites/rwarrims/rwarrims3/pages/_app.js",
+		"/D/sites/rwarrims/rwarrims3/styles/theme/global.js",
+		"/D/sites/rwarrims/rwarrims3/styles/globals.css",
+		"/D/sites/rwarrims/rwarrims3/styles/theme/themes.js",
+		"/D/sites/rwarrims/rwarrims3/lib/useDarkMode.js",
+		"/D/sites/rwarrims/rwarrims3/data/themes.js",
+		"/D/sites/rwarrims/rwarrims3/utils/secrets.json",
+		"/D/sites/rwarrims/rwarrims3/config/secrets.json",
+		"/D/sites/rwarrims/rwarrims3/utils/hash.js",
+		"/D/sites/rwarrims/rwarrims3/jsconfig.json",
+		"/D/sites/rwarrims/rwarrims3/.env",
+		"/D/sites/rwarrims/rwarrims/pages/status.js",
+		"/D/sites/rwarrims/rwarrims/pages/auth/signin.js",
+		"/D/sites/rwarrims/rwarrims/pages/auth/credentials-signin.js",
+		"/D/sites/rwarrims/rwarrims/pages/api/auth/[...nextauth].js",
+		"/D/sites/rwarrims/rwarrims/package.json",
+		"/C/Sites/vixblog/blog/package.json",
+		"/C/Sites/godson-joint/components/nav.js",
+		"/C/Sites/godson-joint/styles/layout.module.css",
+		"/C/Sites/godson-joint/components/text/heading.js",
+		"/C/Sites/godson-joint/styles/components/nav.module.css",
+		"/C/Sites/godson-joint/components/text/code.js",
+		"/C/Sites/godson-joint/pages/creator.js",
+		"/C/Sites/godson-joint/components/tabs.js",
+		"/C/Sites/godson-joint/node_modules/swr/README.md",
+		"/C/Sites/godson-api/config/initializers/cors.rb",
+		"/C/Sites/godson-joint/pages/creations.js",
+		"/C/Users/Alien/Downloads/guides/guides/source/active_storage_overview.md",
+		"/C/Users/Alien/Downloads/guides/guides/source/association_basics.md",
+		"/C/Sites/godson-api/app/models/user.rb",
+		"/C/Sites/godson-api/app/models/creation.rb",
+		"/C/Sites/godson-joint/.gitignore",
+		"/C/Sites/godson/node_modules/swr/package.json",
+		"/C/Sites/godson/package-lock.json",
+		"/C/Sites/godson/package.json",
+		"/C/Sites/godson-api/db/migrate/20200509013535_create_creations.rb",
+		"/C/Ruby26/lib/ruby/gems/2.6.0/gems/jbuilder-2.9.1/README.md",
+		"/C/Sites/godson-api/app/views/users/_user.json.jbuilder",
+		"/C/Sites/godson-api/app/views/users/index.json.jbuilder",
+		"/C/Users/Alien/Downloads/react-contenteditable/src/index.js",
+		"/C/Users/Alien/Downloads/react-contenteditable/package.json",
+		"/C/Program Files/nodejs/node_modules/npm/README.md",
+		"/C/Users/Alien/Downloads/simple-rich-text-editor-in-react/package.json",
+		"/C/Sites/godson/.next/server/static/PeqCM80p9L3gbHbW32dqr/pages/about.js",
+		"/C/Users/City Value/Downloads/materialize-1-dev/js/select.js",
+		"/C/Sites/ionic/godson-react/ionic.config.json",
+		"/C/Users/City Value/Downloads/Activator For Windows 10,8.1,8,7 and Office 2007,2010,2013,2016. [PC Install + Portable Install]/For Windows 8, 8.1, & Office 2007, 2013, 2016 [portable]/readme/readme_en.txt",
+		"/C/Sites/godson/styles/components/tabs.module.css",
+		"/C/Sites/godson/pages/about.js",
+		"/C/Sites/godson/pages/contact.js",
+		"/C/Sites/godson/components/button.js",
+		"/C/Sites/godson/styles/components/button.module.css",
+		"/C/Sites/godson/styles/sanitize/page.css",
+		"/C/Sites/godson/styles/components/card.module.css",
+		"/C/Sites/godson/components/layout.js",
+		"/C/Sites/godson/components/footer.js",
+		"/C/Sites/godson/styles/components/footer.module.css",
+		"/C/Sites/godson/styles/sanitize/typography.css",
+		"/C/Sites/godson/components/card.js",
+		"/C/Sites/godson/styles/layout.module.css",
+		"/C/Sites/godson/styles/global.css",
+		"/C/Sites/godson/pages/index.js",
+		"/C/Sites/godson/pages/_app.js",
+		"/C/Sites/godson/styles/fonts/inter.css",
+		"/C/Sites/pause/css/fonts.css",
+		"/C/Users/Alien/Downloads/Compressed/csstools-sanitize.css-8.0.0-11-gd3be8b5.tar/csstools-sanitize.css-8.0.0-11-gd3be8b5/csstools-sanitize.css-d3be8b5/README.md",
+		"/C/Sites/godson-api/Gemfile",
+		"/C/Sites/godson-api/config/database.yml",
+		"/C/Sites/godson-api/.gitignore",
+		"/C/Sites/godson/.gitignore",
+		"/C/Users/Alien/Downloads/guides/guides/source/active_record_querying.md",
+		"/C/Sites/blog-api/config/database.yml",
+		"/C/Ruby26/lib/ruby/gems/2.6.0/gems/json-1.8.1/README.rdoc",
+		"/C/Sites/blog-api/.gitignore",
+		"/C/Sites/nextjs/nextjs-blog/pages/posts/ssg-ssr.md",
+		"/C/Sites/nextjs/nextjs-blog/.gitignore",
+		"/C/Sites/nextjs/nextjs-blog/components/layout.module.css",
+		"/C/Sites/nextjs/nextjs-blog/pages/_app.js",
+		"/C/Sites/nextjs/nextjs-blog/styles/global.css",
+		"/C/Sites/nextjs/nextjs-blog/styles/utils.module.css",
+		"/C/Sites/nextjs/nextjs-blog/components/layout.js",
+		"/C/Sites/nextjs/nextjs-blog/pages/posts/first-post.js",
+		"/C/Sites/nextjs/nextjs-blog/pages/_appjs",
+		"/C/Sites/nextjs/nextjs-blog/.git/COMMIT_EDITMSG",
+		"/C/Sites/rwarrims/rwarrims-ui/index.html",
+		"/C/Sites/rwarrims/rwarrims-ui/js/isotope/master.js",
+		"/C/Sites/rwarrims/rwarrims-ui/employees.html",
+		"/C/Sites/rwarrims/rwarrims-ui/js/controllers/popup_controller.js",
+		"/C/Sites/rwarrims/rwarrims-ui/js/controllers/employees_controller.js",
+		"/C/Sites/rwarrims/rwarrims-ui/js/app.js",
+		"/C/Sites/rwarrims/rwarrims-ui/css/app.css",
+		"/C/Sites/rwarrims/rwarrims-ui/js/controllers/login_controller.js",
+		"/C/Users/Alien/AppData/Roaming/Sublime Text 3/Packages/TypeScript/TypeScript.sublime-settings"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/button.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 434,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								385,
+								385
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/home_banner.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/appbar.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.errorlist":
+	{
+		"height": 117.0
+	},
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 31.0
+	},
+	"pinned_build_system": "Packages/TypeScript/TypeScript.sublime-build",
+	"project": "godson-joint.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
