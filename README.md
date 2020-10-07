@@ -4,7 +4,8 @@ Work in Progress New Website for [Godson Joint](https://godsonjoint.com)
 
 ## Important
 
-See License for limitations. 
+See License for limitations. [a]
 
-`<> with ❤ by [👽vixalien](https://github.com/vixalien)`
+**<>** with ❤ by [👽vixalien]
 
+[👽vixalien]:https://github.com/vixalien
